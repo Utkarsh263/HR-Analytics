@@ -1,0 +1,59 @@
+EmployeeID,Actual_Attrition,Predicted_Attrition,Attrition_Probability,Risk_Level,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime
+EMP1291,1,1,0.8157220969824878,High,40,Sales,Sales Representative,44919,2,2,2,No
+EMP0560,0,1,0.8130725636291153,High,32,Research & Development,Research Scientist,98708,19,4,4,No
+EMP1152,1,1,0.7901719650307583,High,18,Sales,Sales Manager,96842,19,1,2,Yes
+EMP0407,0,1,0.7718420256260022,High,26,Sales,Sales Executive,46558,0,1,4,No
+EMP1083,0,1,0.7716222865974767,High,33,Research & Development,Laboratory Technician,87188,0,2,3,Yes
+EMP0033,0,1,0.7584253684525576,High,36,Operations,Operations Analyst,67407,2,3,2,No
+EMP1212,0,1,0.7424379011440008,High,30,Research & Development,Research Scientist,83730,2,1,3,No
+EMP0558,0,1,0.7282889818293142,High,32,Research & Development,Laboratory Technician,74087,13,3,2,No
+EMP0027,0,1,0.7162272226223773,High,25,Research & Development,Laboratory Technician,94907,0,1,1,No
+EMP0463,0,1,0.7147968776273815,High,30,Research & Development,Laboratory Technician,61600,9,4,2,No
+EMP1358,0,1,0.7106253136324003,High,40,Research & Development,Research Director,68412,4,3,3,No
+EMP1202,0,1,0.7059129840741907,High,32,Operations,Operations Analyst,48967,1,4,4,Yes
+EMP0256,0,1,0.7009682732363087,High,32,IT,Developer,75785,2,2,3,No
+EMP1356,0,1,0.7009603467301785,High,18,Research & Development,Research Scientist,86817,3,2,4,Yes
+EMP1222,0,1,0.6956775637275101,High,40,IT,IT Manager,71506,4,3,4,Yes
+EMP0914,0,1,0.6936953153213185,High,52,Research & Development,Research Scientist,68789,0,1,3,No
+EMP1117,0,1,0.690232398166236,High,60,Research & Development,Software Engineer,50981,0,3,4,Yes
+EMP0614,0,1,0.6890767721279971,High,25,Sales,Sales Manager,75084,0,4,3,Yes
+EMP0762,0,1,0.6859912906123204,High,38,Research & Development,Research Director,58119,4,2,4,No
+EMP0538,0,1,0.6859677413803394,High,33,IT,Systems Administrator,56319,0,3,3,No
+EMP0879,0,1,0.6610468061284654,High,36,Sales,Sales Executive,56691,5,1,3,Yes
+EMP0664,0,1,0.66055056119572,High,31,IT,Systems Administrator,70966,5,3,3,Yes
+EMP0754,0,1,0.654256223197036,High,47,IT,Developer,56518,1,3,4,No
+EMP1419,0,1,0.6534672869167583,High,52,Operations,Operations Analyst,56606,0,4,3,No
+EMP0272,0,1,0.6487386686496507,High,22,Research & Development,Laboratory Technician,60522,0,2,3,No
+EMP1317,0,1,0.6458070800794048,High,26,Research & Development,Research Scientist,55715,1,3,3,No
+EMP1380,0,1,0.6439840217898803,High,55,Operations,Logistics Coordinator,62403,0,2,2,No
+EMP1066,0,1,0.6429888850808141,High,25,Sales,Sales Representative,55463,3,3,1,No
+EMP1000,0,1,0.6346006041369704,High,42,IT,Developer,65555,5,1,3,No
+EMP0196,1,1,0.6334016301677092,High,40,Research & Development,Research Scientist,77505,4,1,2,Yes
+EMP0652,0,1,0.6315899403915024,High,48,Research & Development,Software Engineer,71519,7,4,2,Yes
+EMP1166,0,1,0.6294903650109555,High,60,IT,IT Manager,55742,7,2,3,No
+EMP0810,0,1,0.6266649190470425,High,28,IT,Developer,53387,3,1,3,Yes
+EMP0521,0,1,0.6261025217430096,High,20,Research & Development,Laboratory Technician,68165,5,3,4,No
+EMP1239,0,1,0.6258015332868497,High,42,Research & Development,Research Director,76361,1,2,3,No
+EMP1008,0,1,0.6235698760036567,High,43,Finance,Finance Manager,68117,13,1,4,No
+EMP0944,0,1,0.6217183419425515,High,36,Research & Development,Research Director,58514,1,3,2,No
+EMP0809,0,1,0.620148297928999,High,49,Sales,Sales Manager,56824,3,4,2,No
+EMP1324,0,1,0.6187057473991091,High,41,Sales,Sales Executive,92329,0,2,2,Yes
+EMP0188,0,1,0.6168562901228817,High,36,Research & Development,Laboratory Technician,66778,5,2,4,No
+EMP1026,0,1,0.6156035033409182,High,41,Operations,Operations Analyst,85245,3,3,1,No
+EMP0241,0,1,0.6131350815175547,High,29,Finance,Finance Manager,48670,1,3,3,No
+EMP0226,0,1,0.6130120317501228,High,47,Sales,Sales Manager,145146,0,3,3,No
+EMP0175,1,1,0.6129311814043535,High,39,Operations,Operations Manager,175577,3,2,2,Yes
+EMP0240,0,1,0.6116973991100538,High,45,Finance,Financial Analyst,89764,1,3,1,No
+EMP0354,1,1,0.6069680303231054,High,35,IT,Systems Administrator,61998,3,2,3,Yes
+EMP0718,0,1,0.6059156824469191,High,38,Research & Development,Software Engineer,70547,4,2,2,Yes
+EMP0322,0,1,0.605168166842187,High,42,Research & Development,Research Director,56627,19,3,1,No
+EMP1031,0,1,0.6047527774831433,High,34,Operations,Logistics Coordinator,56648,4,3,3,No
+EMP0329,1,1,0.6034039432610743,High,43,Operations,Logistics Coordinator,60297,8,2,3,Yes
+EMP0577,0,1,0.6023481820325516,High,39,Finance,Financial Analyst,81640,6,2,2,No
+EMP0881,0,1,0.6022426655592941,High,60,Sales,Sales Representative,75668,4,4,2,Yes
+EMP0023,0,1,0.6013681360741551,High,37,Sales,Sales Executive,50087,0,1,3,No
+EMP0945,0,1,0.6013667213711513,High,55,Sales,Sales Representative,84293,4,3,4,No
+EMP1320,0,1,0.6012962247169646,High,35,Research & Development,Research Director,52613,1,1,2,Yes
+EMP0157,0,1,0.6008820561095072,High,55,Finance,Financial Analyst,58836,4,2,4,No
+EMP1252,0,1,0.6001828081027877,High,45,Research & Development,Research Director,73306,0,1,3,No
+EMP0597,0,1,0.6001210571719522,High,34,IT,IT Manager,117421,4,2,3,No
