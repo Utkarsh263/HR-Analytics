@@ -1,4 +1,4 @@
-```markdown
+
 # HR Analytics - Employee Attrition Prediction
 
 A comprehensive data analytics and machine learning project to identify factors causing employee attrition and predict which employees are at risk of leaving the company.
@@ -332,3 +332,4 @@ Empowering organizations to retain top talent through data-driven insights and p
 
 
 ```
+
