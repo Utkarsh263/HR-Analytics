@@ -321,13 +321,6 @@ hr_analytics_project/
 * Real-Time Data Integration
 * Explainable AI (SHAP/LIME)
 
-## 📌 References
-
-* IBM HR Analytics Dataset - Kaggle: [Link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-* Python Data Science Handbook, Jake VanderPlas
-* Scikit-learn Documentation: [https://scikit-learn.org](https://scikit-learn.org)
-* SQLite Documentation: [https://www.sqlite.org/docs.html](https://www.sqlite.org/docs.html)
-
 ## 📄 License
 
 This project is **MIT licensed**. You are free to use, modify, and distribute it with proper attribution.
@@ -336,5 +329,6 @@ This project is **MIT licensed**. You are free to use, modify, and distribute it
 
 ✅ **HR Analytics – Employee Attrition Prediction**
 Empowering organizations to retain top talent through data-driven insights and predictive modeling.
+
 
 ```
